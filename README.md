@@ -20,6 +20,7 @@ Se identificó una problemática crítica:
 ✔️ Reduce la eficiencia en decisiones de otorgamiento de crédito
 
 
+
 ## 🎯 2. Objetivo del Proyecto
 
 Identificar patrones y segmentos con mayor probabilidad de default, cuantificar su impacto en la cartera y proponer acciones que reduzcan las pérdidas esperadas.
@@ -33,6 +34,7 @@ Identificar patrones y segmentos con mayor probabilidad de default, cuantificar 
 ✔️ Identificar outliers y errores de datos que afectan el análisis y el scoring
 
 ✔️ Proponer reglas de negocio (bloqueo, límites, reestructuración)
+
 
 
 ## 🧩 3. Contexto y Supuestos
@@ -71,6 +73,7 @@ Datos sintéticos generados en Python para simular una cartera de crédito real.
 - Posibles sesgos en los datos generados
 
 
+
 ## ⚙️ 4. Proceso Analítico
 
 ### 🧹 Limpieza de datos
@@ -106,6 +109,7 @@ Datos sintéticos generados en Python para simular una cartera de crédito real.
 🔸 Cálculo de pérdida esperada por segmento
 
 
+
 ## 📊 5. Visualizaciones Clave
 
 Cada visual responde una pregunta crítica de negocio:
@@ -117,6 +121,7 @@ Cada visual responde una pregunta crítica de negocio:
 📉 ¿Qué variables explican la morosidad?
 
 💰 ¿Cuál es el impacto económico por segmento?
+
 
 
 ## 💡 6. Hallazgos Principales
@@ -132,6 +137,7 @@ Cada visual responde una pregunta crítica de negocio:
 ❗ Los outliers pueden distorsionar la medición del riesgo
 
 
+
 ## 📈 7. Impacto en el Negocio
 
 El análisis revela:
@@ -143,6 +149,7 @@ El análisis revela:
 📊 Falta de segmentación efectiva en decisiones crediticias
 
 ⚠️ Riesgo elevado por falta de control en clientes con mora
+
 
 
 ## ✅ 8. Reglas de Negocio Propuestas
@@ -162,6 +169,7 @@ Sin mora
 👉 Acción: Mantener / fidelizar
 
 
+
 ## 📈 9. Impacto Económico
 
 Se cuantifica la pérdida esperada (Expected Loss):
@@ -177,6 +185,7 @@ Se cuantifica la pérdida esperada (Expected Loss):
 ✔️ Evaluar escenarios de mejora
 
 
+
 ## 🔮 10. Próximos Pasos
 
 🔸 Incorporar LGD y EAD para un modelo más realista
@@ -186,6 +195,7 @@ Se cuantifica la pérdida esperada (Expected Loss):
 🔸 Implementar modelos predictivos (Machine Learning)
 
 🔸 Automatizar reglas y alertas de riesgo
+
 
 
 ## 🛠️ 11. Herramientas Utilizadas
@@ -199,9 +209,11 @@ Se cuantifica la pérdida esperada (Expected Loss):
 ✔️ PySpark / SQL / Python
 
 
+
 ## 🔄 12. Arquitectura del Proyecto
 
 Se utilizó arquitectura Medallion:
+
 
 
 ## 📊 13. Dashboard
@@ -217,6 +229,7 @@ El dashboard permite:
 ✔️ Proponer acciones de negocio
 
 
+
 ## 🧠 14. ¿Qué demuestra este proyecto?
 
 ✔️ Enfoque en analítica aplicada a banca
@@ -226,6 +239,7 @@ El dashboard permite:
 ✔️ Diseño de soluciones end-to-end (data → insight → acción)
 
 ✔️ Pensamiento estratégico orientado a reducción de riesgo
+
 
 
 ## 📌 15. Conclusión
