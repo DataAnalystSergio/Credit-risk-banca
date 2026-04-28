@@ -229,6 +229,8 @@ El dashboard permite:
 
 ✔️ Proponer acciones de negocio
 
+![Dashboard1](dashboard/screenshots/Dashboard_1.jpg)
+![Dashboard2](dashboard/screenshots/Dashboard_2.jpg)
 
 
 ## 🧠 14. ¿Qué demuestra este proyecto?
