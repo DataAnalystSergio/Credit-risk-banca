@@ -214,6 +214,7 @@ Se cuantifica la pérdida esperada (Expected Loss):
 
 Se utilizó arquitectura Medallion:
 
+![Arquitectura Datos Medallion](images-visuals-readme/Arquitectura de Datos.jpeg)
 
 
 ## 📊 13. Dashboard
